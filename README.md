@@ -1,1 +1,1 @@
-# react-cam
+# Miscible React Camera [![npm version](https://badge.fury.io/js/miscible-react-cam.svg)](https://badge.fury.io/js/miscible-react-cam)
