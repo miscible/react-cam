@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link changes the class when hovered 1`] = `
+<video
+  autoPlay={true}
+  height={320}
+  src={null}
+  style={
+    Object {
+      "WebkitTransition": "scaleX(-1)",
+      "transform": "scaleX(-1)",
+    }
+  }
+  width={640}
+/>
+`;
